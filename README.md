@@ -17,3 +17,11 @@ To compile this code, it's recommended to download and install the AMD App SDK (
     
 - Add all the files to the project (or create a new file and paste the code) and build the code
 
+
+For more details, see https://raytracey.blogspot.com/2017/01/opencl-path-tracing-tutorial-3-opengl.html
+
+For part 2 of this tutorial, see https://github.com/straaljager/OpenCL-path-tracing-tutorial-3-Part-2
+
+Screenshot:
+
+![Image description](https://github.com/straaljager/OpenCL-path-tracing-tutorial-3-Part-1/blob/master/opencl_tut3_3.png)
